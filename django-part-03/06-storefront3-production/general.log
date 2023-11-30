@@ -1,0 +1,25 @@
+Watching for file changes with StatReloader
+C:\Users\kaveenThivanka\Desktop\Django\Django Part 03\06-storefront3-production\storefront\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Cannot execute silk_profile as silk is not installed correctly.
+Calling httpbin
+Received the response
+Calling httpbin
+Received the response
+C:\Users\kaveenThivanka\Desktop\Django\Django Part 03\06-storefront3-production\storefront\settings.py changed, reloading.
+2022-03-25 21:06:39,383 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-03-25 21:06:39,580 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-03-25 21:06:42,765 (INFO) - playground.views - Calling httpbin
+2022-03-25 21:06:45,800 (INFO) - playground.views - Received the response
+2022-03-25 21:49:22,873 (INFO) - django.utils.autoreload - C:\Users\kaveenThivanka\Desktop\Django\Django Part 03\06-storefront3-production\manage.py changed, reloading.
+2022-03-25 21:50:29,064 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-03-25 21:50:29,318 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-03-25 21:51:15,411 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-03-25 21:51:15,433 (WARNING) - django.request - Forbidden: /store/collections/
+2022-03-25 21:51:15,439 (WARNING) - django.request - Bad Request: /store/collections/
+2022-03-25 21:54:09,074 (INFO) - django.utils.autoreload - C:\Users\kaveenThivanka\Desktop\Django\Django Part 03\06-storefront3-production\storefront\settings\common.py changed, reloading.
+2022-03-25 21:54:10,884 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-03-25 21:54:11,092 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-03-25 21:54:27,995 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-03-25 21:54:28,050 (WARNING) - django.request - Forbidden: /store/collections/
+2022-03-25 21:54:28,096 (WARNING) - django.request - Bad Request: /store/collections/
